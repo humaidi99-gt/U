@@ -9,7 +9,7 @@
     "id": "karlina",
     "key": "lina",
     "expiresAt": "2026-11-11",
-    "allowOffline": true
+    "allowOffline": false
   },
   {
     "id": "80dd4ff03aa8aa4d",
