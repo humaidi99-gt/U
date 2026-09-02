@@ -6,6 +6,12 @@
     "allowOffline": true
   },
   {
+    "id": "aa61eea06a4f8ab5",
+    "key": "joki",
+    "expiresAt": "2026-10-03",
+    "allowOffline": false
+  },
+  {
     "id": "c7205f49a70d2aba",
     "key": "Karlina",
     "expiresAt": "2026-10-03",
