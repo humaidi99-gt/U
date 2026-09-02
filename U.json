@@ -6,6 +6,12 @@
     "allowOffline": true
   },
   {
+    "id": "5424af2a70578ff0",
+    "key": "tahubulat",
+    "expiresAt": "2026-10-01",
+    "allowOffline": false
+  },
+  {
     "id": "773f30db9caee0fc",
     "key": "rojikun",
     "expiresAt": "2026-11-03",
