@@ -6,6 +6,12 @@
     "allowOffline": true
   },
   {
+    "id": "fd35425bbc76d35a",
+    "key": "spxgb",
+    "expiresAt": "2026-10-03",
+    "allowOffline": false
+  },
+  {
     "id": "f9d0893dac3bb48f",
     "key": "popol",
     "expiresAt": "2026-09-25",
