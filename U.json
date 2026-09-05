@@ -6,6 +6,12 @@
     "allowOffline": true
   },
   {
+    "id": "59de188d0fb2ea1d",
+    "key": "zakzak",
+    "expiresAt": "2026-10-05",
+    "allowOffline": false
+  },
+  {
     "id": "c15a183e88e8cfa5",
     "key": "melolo",
     "expiresAt": "2026-10-05",
